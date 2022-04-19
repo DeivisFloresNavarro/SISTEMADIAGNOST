@@ -1,0 +1,7 @@
+﻿D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\DetalleDiagnosticoEntidad.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\DiagnosticoEntidad.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\EmpleadoEntidad.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\EnfermedadPosibleEntidad.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\PacienteEntidad.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\Properties\AssemblyInfo.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\UsuarioEntidad.cs

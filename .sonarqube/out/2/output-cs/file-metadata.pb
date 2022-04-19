@@ -1,0 +1,9 @@
+_
+VD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\DetalleDiagnosticoNegocio.csutf-8X
+OD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\DiagnosticoNegocio.csutf-8U
+LD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\EmpleadoNegocio.csutf-8^
+UD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\EnfermedadPosibleNegocio.csutf-8U
+LD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\PacienteNegocio.csutf-8]
+TD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\Properties\AssemblyInfo.csutf-8T
+KD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\UsuarioNegocio.csutf-8Å
+vD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Negocio\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8

@@ -1,0 +1,8 @@
+﻿D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\Conexion.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\DetalleDiagnosticoDatos.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\DiagnosticoDatos.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\EmpleadoDatos.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\EnfermedadPosibleDatos.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\PacienteDatos.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\Properties\AssemblyInfo.cs
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\UsuarioDatos.cs

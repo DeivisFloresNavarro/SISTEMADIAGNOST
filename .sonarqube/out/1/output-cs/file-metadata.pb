@@ -1,0 +1,10 @@
+R
+ID:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\Conexion.csutf-8a
+XD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\DetalleDiagnosticoDatos.csutf-8Z
+QD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\DiagnosticoDatos.csutf-8W
+ND:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\EmpleadoDatos.csutf-8`
+WD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\EnfermedadPosibleDatos.csutf-8W
+ND:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\PacienteDatos.csutf-8a
+XD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\Properties\AssemblyInfo.csutf-8V
+MD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\UsuarioDatos.csutf-8…
+zD:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8
