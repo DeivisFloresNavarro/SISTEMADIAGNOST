@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="BuscarEmpleado.feature" />
+    <None Include="IniciarSesion.feature" />
     <None Include="packages.config" />
     <None Include="runtests.cmd" />
     <None Include="SpecRunTestProfile.xsd">
