@@ -42,7 +42,7 @@ D:\Sistemas\7mo ciclo\Calidad y pruebas de software\Unidad I\Sistema Diagnostico
 D:\Sistemas\7mo ciclo\Calidad y pruebas de software\Unidad I\Sistema Diagnostico\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.pdb
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\bin\Debug\SistemaDiagnostico.Entidad.dll
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\bin\Debug\SistemaDiagnostico.Entidad.pdb
-D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.csproj.AssemblyReference.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.csproj.CoreCompileInputs.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.dll
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.pdb
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Entidad\obj\Debug\SistemaDiagnostico.Entidad.csprojAssemblyReference.cache

@@ -156,8 +156,6 @@ C:\Users\Percy\Desktop\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\De
 D:\Sistemas\7mo ciclo\Calidad y pruebas de software\Unidad I\Sistema Diagnostico\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csproj.AssemblyReference.cache
 D:\Sistemas\7mo ciclo\Calidad y pruebas de software\Unidad I\Sistema Diagnostico\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.exe
 D:\Sistemas\7mo ciclo\Calidad y pruebas de software\Unidad I\Sistema Diagnostico\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.pdb
-D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.exe
-D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.pdb
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.Presentacion.exe.config
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.Presentacion.exe
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.Presentacion.pdb
@@ -167,6 +165,7 @@ D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\Sistema
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.AccesoDatos.pdb
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.Entidad.pdb
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\bin\Debug\SistemaDiagnostico.Negocio.pdb
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csprojAssemblyReference.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.FrmDiagnostico.resources
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.FrmEmpleado.resources
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.FrmEstadistica.resources
@@ -178,4 +177,5 @@ D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\Sistema
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csproj.GenerateResource.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csproj.CoreCompileInputs.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csproj.CopyComplete
-D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.csprojAssemblyReference.cache
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.exe
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.Presentacion\obj\Debug\SistemaDiagnostico.Presentacion.pdb

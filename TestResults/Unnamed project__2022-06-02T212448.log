@@ -1,0 +1,122 @@
+﻿2022-06-02T21:24:48.9382735-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-06-02T21:24:48.9382735-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework clr40 in x86 mode execution started
+2022-06-02T21:24:48.9382735-05:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Proyecto\SistemaDiagnostico\packages\SpecRun.Runner.3.9.31\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-06-02T21:24:48.9382735-05:00;VSTestExecutionThread;Info;Current UserName: 'Usuario', MachineName: 'DESKTOP-839CFT0'
+2022-06-02T21:24:48.9753049-05:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\UnitTestProjectSistemaDiagnostico.dll
+2022-06-02T21:24:48.9753049-05:00;VSTestExecutionThread;Info;Output folder configured to "D:\Proyecto\SistemaDiagnostico\TestResults" (default)
+2022-06-02T21:24:48.9753049-05:00;VSTestExecutionThread;Info;Profile: 
+2022-06-02T21:24:49.0152753-05:00;VSTestExecutionThread;Info;Log file path: D:\Proyecto\SistemaDiagnostico\TestResults\Unnamed project__2022-06-02T212448.log
+2022-06-02T21:24:49.0192736-05:00;Thread#14;Info;Checking activation
+2022-06-02T21:24:51.1223275-05:00;Thread#14;Info;Activated.
+2022-06-02T21:24:51.1233300-05:00;Thread#14;Info;Activation check completed
+2022-06-02T21:24:51.1233300-05:00;Thread#14;Info;Starting test run
+2022-06-02T21:24:51.1342964-05:00;Thread#14;Info;Discovering target: Default
+2022-06-02T21:24:51.1342964-05:00;Thread#14;Info;Discovering tests from assembly: D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\UnitTestProjectSistemaDiagnostico.dll
+2022-06-02T21:24:51.3787577-05:00;Thread#14;Info;Discovered tests from assembly: D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\UnitTestProjectSistemaDiagnostico.dll
+2022-06-02T21:24:51.3797262-05:00:Test Suite Dump
+2022-06-02T21:24:51.3807584-05:00:#0: Unnamed project/ - 
+2022-06-02T21:24:51.3807584-05:00:#1: Default - 
+2022-06-02T21:24:51.3807584-05:00:#2: UnitTestProjectSistemaDiagnostico - 
+2022-06-02T21:24:51.3807584-05:00:#5: IniciarSesion - 
+2022-06-02T21:24:51.4067263-05:00:#7: Successful Login with Valid Credentials - TestAssembly:UnitTestProjectSistemaDiagnostico/Feature:IniciarSesion/Scenario:Successful+Login+with+Valid+Credentials
+2022-06-02T21:24:51.4067263-05:00:End: Test Suite Dump
+2022-06-02T21:24:51.4237269-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-06-02T21:24:51.4247578-05:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2022-06-02T21:24:51.4247578-05:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2022-06-02T21:24:51.4287580-05:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2022-06-02T21:24:51.4287580-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2022-06-02T21:24:51.4287580-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2022-06-02T21:24:51.4287580-05:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2022-06-02T21:24:51.4297566-05:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2022-06-02T21:24:51.4297566-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-06-02T21:24:51.4317278-05:00:Thread #0: creating new test thread executor for UnitTestProjectSistemaDiagnostico, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-06-02T21:24:51.4337586-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-06-02T21:24:51.4347568-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-06-02T21:24:51.4367271-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2022-06-02T21:24:52.1999114-05:00:Thread#0:T:-> Loading plugin D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-06-02T21:24:52.2229126-05:00:Thread#0:T:-> Loading plugin D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\UnitTestProjectSistemaDiagnostico.dll
+2022-06-02T21:24:52.2238830-05:00:Thread#0:T:-> Using default config
+2022-06-02T21:24:53.3803482-05:00:Thread#0: Test #7/0 is started on thread #0
+2022-06-02T21:24:53.3993169-05:00:Thread#0:B:Given User enter credentials
+2022-06-02T21:24:53.3993169-05:00:Thread#0:B:  --- table step argument ---
+2022-06-02T21:24:53.3993169-05:00:Thread#0:B:  | Key      | Value  |
+2022-06-02T21:24:53.3993169-05:00:Thread#0:B:  | Uuario   | daniel |
+2022-06-02T21:24:53.3993169-05:00:Thread#0:B:  | Password | 1234   |
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:        [Given(@"User enter credentials")]
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:        public void GivenUserEnterCredentials(Table table)
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.5553478-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.5563476-05:00:Thread#0:B:When Click on the LogIn button
+2022-06-02T21:24:53.5633158-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2022-06-02T21:24:53.5643552-05:00:Thread#0:T:        [When(@"Click on the LogIn button")]
+2022-06-02T21:24:53.5643552-05:00:Thread#0:T:        public void WhenClickOnTheLogInButton()
+2022-06-02T21:24:53.5643552-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.5643552-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.5643552-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.5643552-05:00:Thread#0:B:Then Successful LogIN message should display
+2022-06-02T21:24:53.5673466-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2022-06-02T21:24:53.5673466-05:00:Thread#0:T:        [Then(@"Successful LogIN message should display")]
+2022-06-02T21:24:53.5683494-05:00:Thread#0:T:        public void ThenSuccessfulLogINMessageShouldDisplay()
+2022-06-02T21:24:53.5683494-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.5683494-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.5683494-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.7041953-05:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2022-06-02T21:24:53.7041953-05:00:Thread#0:T:using System;
+2022-06-02T21:24:53.7041953-05:00:Thread#0:T:using TechTalk.SpecFlow;
+2022-06-02T21:24:53.7041953-05:00:Thread#0:T:namespace MyNamespace
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:{
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:    [Binding]
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:    public class StepDefinitions
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:    {
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        [Given(@"User enter credentials")]
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        public void GivenUserEnterCredentials(Table table)
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.7051950-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.7061947-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.7102287-05:00:Thread#0:T:        
+2022-06-02T21:24:53.7102287-05:00:Thread#0:T:        [When(@"Click on the LogIn button")]
+2022-06-02T21:24:53.7102287-05:00:Thread#0:T:        public void WhenClickOnTheLogInButton()
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        [Then(@"Successful LogIN message should display")]
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        public void ThenSuccessfulLogINMessageShouldDisplay()
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        {
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:            _scenarioContext.Pending();
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:        }
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:    }
+2022-06-02T21:24:53.7112248-05:00:Thread#0:T:}
+2022-06-02T21:24:53.7171948-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-06-02T21:24:53.7171948-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-06-02T21:24:53.7171948-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-06-02T21:24:53.7171948-05:00:Thread#0:Scheduler: No more tests for thread
+2022-06-02T21:24:53.7271946-05:00:Thread#0: Test #7/0 is finished on thread #0 as Pending within 0.3468464 seconds
+2022-06-02T21:24:53.7391953-05:00:Trying to cancel thread
+2022-06-02T21:24:53.7391953-05:00:Thread cancelled
+2022-06-02T21:24:53.7431945-05:00:Thread#-1:Scheduler: get next test for thread -1
+2022-06-02T21:24:53.7431945-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-06-02T21:24:53.7431945-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-06-02T21:24:53.7451960-05:00;Thread#14;Info;test run finished
+2022-06-02T21:24:53.7451960-05:00;Thread#14;Info;publishing test results
+2022-06-02T21:24:53.7492248-05:00;Thread#14;Info;test results published
+2022-06-02T21:24:53.7492248-05:00;Thread#14;Info;generating reports
+2022-06-02T21:24:53.8343551-05:00;Thread#14;Info;Starting external report generation process
+2022-06-02T21:24:55.6242303-05:00;Thread#14;Info;Successfully generated reports.
+2022-06-02T21:24:55.6252304-05:00;Thread#14;Info;Successfully generated reports
+2022-06-02T21:24:55.6312602-05:00:Total: 1
+2022-06-02T21:24:55.6322643-05:00:Succeeded: 0
+2022-06-02T21:24:55.6332603-05:00:Ignored: 0
+2022-06-02T21:24:55.6332603-05:00:Pending: 1
+2022-06-02T21:24:55.6332603-05:00:Skipped: 0
+2022-06-02T21:24:55.6342317-05:00:Failed: 0
+2022-06-02T21:24:55.6432291-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-06-02T21:24:55.6432291-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\Proyecto\SistemaDiagnostico\TestResults\Unnamed project__2022-06-02T212448.html'
+========== End of log file ==========

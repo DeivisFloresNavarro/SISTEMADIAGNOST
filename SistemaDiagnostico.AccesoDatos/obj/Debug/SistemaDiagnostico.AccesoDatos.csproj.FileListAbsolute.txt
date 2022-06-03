@@ -65,8 +65,8 @@ D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\bin\Debug\SistemaD
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\bin\Debug\SistemaDiagnostico.AccesoDatos.pdb
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\bin\Debug\SistemaDiagnostico.Entidad.dll
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\bin\Debug\SistemaDiagnostico.Entidad.pdb
+D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.csprojAssemblyReference.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.csproj.CoreCompileInputs.cache
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.csproj.CopyComplete
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.dll
 D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.pdb
-D:\Proyecto\SistemaDiagnostico\SistemaDiagnostico.AccesoDatos\obj\Debug\SistemaDiagnostico.AccesoDatos.csprojAssemblyReference.cache
