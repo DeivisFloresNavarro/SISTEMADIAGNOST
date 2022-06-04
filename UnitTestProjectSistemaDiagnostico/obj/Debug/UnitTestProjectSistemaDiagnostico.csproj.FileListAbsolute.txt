@@ -187,3 +187,5 @@ D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\TechT
 D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\obj\Debug\UnitTestProjectSistemaDiagnostico.csproj.CopyComplete
 D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\obj\Debug\UnitTestProjectSistemaDiagnostico.dll
 D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\obj\Debug\UnitTestProjectSistemaDiagnostico.pdb
+D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\LivingDoc.Dtos.dll
+D:\Proyecto\SistemaDiagnostico\UnitTestProjectSistemaDiagnostico\bin\Debug\LivingDoc.SpecFlowPlugin.dll
